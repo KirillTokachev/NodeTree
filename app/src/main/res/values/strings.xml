@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NodeTree</string>
+    <string name="back">Назад</string>
+    <string name="add_node">Добавить сущность</string>
+    <string name="error">Ошибка</string>
+    <string name="load_data">Загрузка данных…</string>
+    <string name="try_again">Ещё раз</string>
+    <string name="cancel">Отмена</string>
+    <string name="are_you_shure">"Вы действительно хотите "</string>
+    <string name="delete">Удалить</string>
+</resources>
